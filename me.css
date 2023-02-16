@@ -216,7 +216,7 @@ root {
   display: flex;
   flex-direction: column;
   left: 0;
-  min-height: 1208px;
+  height: 1120px;
   padding: 24px 0;
   position: absolute;
   top: 0;
@@ -582,13 +582,13 @@ border: 1px solid #BB91FF;
   width: 1146px;
   color: #8D8D8D;
   height: 1px;
-  margin-top: 70px;
+  margin-top: 80px;
   
   }
   .div-23 {
     height: 60px;
     width: 1512px;
-    margin-top: 90px;
+    margin-top: -100px;
     
   }
   .div-23 ul
